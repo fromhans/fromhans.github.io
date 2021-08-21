@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "default", air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Hansu Kim's IT Blog"
 title_separator          : "-"
 subtitle                 : "프로그래밍 / 클라우드" # site tagline that appears below site title in masthead
-name                     : "Hansu Kim"
-description              : "working as a cloud software developer at KT."
+name                     : "Hansu Kim's IT Blog"
+description              : "공부 겸 생각정리 겸 성취감 느끼기"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             :  "Hansu Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              :  "working as a cloud software developer at KT."
+  location         : "서울, 대한민국"
+  email            : "zihs1320@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
