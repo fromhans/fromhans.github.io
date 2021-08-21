@@ -103,7 +103,7 @@ analytics:
 author:
   name             :  "Hansu Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              :  "working as a cloud software developer at KT."
+  bio              :  "Software developer at KT."
   location         : "서울, 대한민국"
   #email            : "zihs0822@gmail.com"
   links:
