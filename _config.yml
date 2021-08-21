@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : "프로그래밍 / 클라우드" # site tagline that appears below site title in masthead
 name                     : "Hansu Kim's IT Blog"
 description              : "공부 겸 생각정리 겸 성취감 느끼기"
-url                      : "https://fromhans.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://fromhans.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
