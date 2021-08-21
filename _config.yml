@@ -102,8 +102,8 @@ analytics:
 # Site Author
 author:
   name             :  "Hansu Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              :  "Software developer at KT."
+  avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              :  "Software developer at KT"
   location         : "서울, 대한민국"
   #email            : "zihs0822@gmail.com"
   links:
