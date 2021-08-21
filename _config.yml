@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Hansu Kim's IT Blog"
 title_separator          : "-"
-subtitle                 : "프로그래밍 스터디" # site tagline that appears below site title in masthead
-name                     : "Your Name"
+subtitle                 : "프로그래밍 / 클라우드 / 주식투자" # site tagline that appears below site title in masthead
+name                     : "Hansu Kim"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
