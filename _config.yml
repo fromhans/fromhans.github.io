@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "default", air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hansu Kim's IT Blog"
+title                    : "생각 정리 노트"
 title_separator          : "-"
-subtitle                 : "프로그래밍 / 클라우드" # site tagline that appears below site title in masthead
-name                     : "Hansu Kim's IT Blog"
+subtitle                 : "프로그래밍 & 클라우드" # site tagline that appears below site title in masthead
+name                     : "생각정리 노트"
 description              : "공부 겸 생각정리 겸 성취감 느끼기"
 url                      : "https://fromhans.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

@@ -1,6 +1,16 @@
-# 이중화를 위한 keepalived & DRBD 적용
-
-# **HA 제공을 위한 Keepalived 프레임워크 적용**
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+# **HA 제공을 위한 Keepalived & DRBD 적용**
 
 ## **ㅇ테스트환경**
 
