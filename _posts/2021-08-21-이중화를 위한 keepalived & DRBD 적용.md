@@ -1,16 +1,3 @@
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-
 # **HA 제공을 위한 Keepalived & DRBD 적용**
 
 ## **ㅇ테스트환경**
