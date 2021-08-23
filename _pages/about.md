@@ -3,6 +3,8 @@ title: "About me"
 permalink: /about/
 excerpt: "about.md"
 author_profile: true
+toc: true  
+toc_sticky: true 
 ---
 # About me
 
