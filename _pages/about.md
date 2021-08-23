@@ -3,6 +3,7 @@ title: "About me"
 permalink: /about/
 excerpt: "about.md"
 author_profile: true
+layout: posts
 toc: true  
 toc_sticky: true 
 tags: [About]
@@ -10,8 +11,11 @@ tags: [About]
 # About me
 
 서울 송파구에 거주. 88년생
+
 무선 네트워크 엔지니어로 일하던 중, 클라우드에 관심이 생겨
+
 21년도에 **네트워크 엔지니어 → 개발자**로 직무전환. 
+
 현재 클라우드 소프트웨어 개발자로 KT에서 재직 중입니다.
 
 # Work History
