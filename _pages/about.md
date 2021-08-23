@@ -3,11 +3,12 @@ title: "About me"
 permalink: /about/
 excerpt: "about.md"
 author_profile: true
+tags: [About]
 toc: true  
 toc_sticky: true 
 ---
 # About me
-
+테스트1
 서울 송파구에 거주. 88년생
 
 무선 네트워크 엔지니어로 일하던 중, 클라우드에 관심이 생겨
