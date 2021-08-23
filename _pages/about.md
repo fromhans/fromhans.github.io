@@ -5,6 +5,7 @@ excerpt: "about.md"
 author_profile: true
 toc: true  
 toc_sticky: true 
+tags: [About]
 ---
 # About me
 
