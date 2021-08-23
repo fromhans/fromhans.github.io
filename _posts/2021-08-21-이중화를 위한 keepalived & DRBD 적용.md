@@ -7,11 +7,8 @@ tags: linux, cloud, infra
 toc: true  
 toc_sticky: true 
 ---
-
 # **HA 제공을 위한 Keepalived & DRBD 적용**
-
 ## **ㅇ테스트환경**
-
 - OS: Centos 7.6
 - Host 정보
     - Master Node : 10.30.31.168/27
