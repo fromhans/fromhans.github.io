@@ -5,8 +5,10 @@ categories: linux
 tags: 
     - linux
     - cloud infra
-    - 테스트
-    - 중 입니다
+    - infrastructure
+    - ha
+    - keepalived
+    - drbd
 # 목차
 toc: true  
 toc_sticky: true 
