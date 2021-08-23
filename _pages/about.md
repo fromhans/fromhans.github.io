@@ -1,5 +1,5 @@
 ---
-title: "About me"
+#title: "About me"
 permalink: /about/
 excerpt: "about.md"
 author_profile: true
