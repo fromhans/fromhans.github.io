@@ -2,7 +2,11 @@
 date: 2021-08-22
 title: "HA 제공을 위한 Keepalived & DRBD 적용"
 categories: linux
-tags: linux, cloud, infra, "테스트 중입니다"
+tags: 
+    - linux
+    - cloud infra
+    - 테스트
+    - 중 입니다
 # 목차
 toc: true  
 toc_sticky: true 
