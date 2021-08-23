@@ -10,17 +10,12 @@ tags: [About]
 # About me
 
 서울 송파구에 거주. 88년생.
-
 무선 네트워크 엔지니어로 일하던 중, 클라우드에 관심이 생겨
-
 21년도에 **네트워크 엔지니어 → 개발자**로 직무전환. 
-
 현재 클라우드 소프트웨어 개발자로 KT에서 재직 중입니다.
 
 # Work History
-
 ---
-
 - **2021**
     - 6월~9월
         - Python Django 기반 Cloud 고객사별 방화벽 차단 정책 관리 프로그램 제작
@@ -52,8 +47,6 @@ tags: [About]
     - 졸업논문 : Wireless Sensor Network and Big Data in Cooperative Fire Security system using HARMS ([https://ieeexplore.ieee.org/document/7081182](https://ieeexplore.ieee.org/document/7081182))
 
 # Contact
-
 ---
-
 - Phone : +82-1o-9888-oo73
 - Email : han-su.kim@kt.com / zihs0822@gmail.com
