@@ -17,6 +17,7 @@ toc_sticky: true
 
 현재 클라우드 소프트웨어 개발자로 KT에서 재직 중입니다.
 
+
 # Work History
 ---
 - **2021**
@@ -48,6 +49,7 @@ toc_sticky: true
 - 2015.1: 동국대학교 졸업 및 KT 입사
     - 컴퓨터공학과 졸업
     - 졸업논문 : Wireless Sensor Network and Big Data in Cooperative Fire Security system using HARMS ([https://ieeexplore.ieee.org/document/7081182](https://ieeexplore.ieee.org/document/7081182))
+
 
 # Contact
 ---
