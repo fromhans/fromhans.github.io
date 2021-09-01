@@ -25,7 +25,7 @@ toc_sticky: true
     - margin이나 padding 값 등 기본값을 정할 때 사용
     - 문서 안의 모든 요소를 읽어내려야 하기 때문에 페이지 로딩 속도 저하
 ```css
-* {
+\* {
     margin: 0; text-decoration: none 
 }
 ```
