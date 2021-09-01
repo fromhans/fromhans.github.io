@@ -70,7 +70,7 @@ vrrp_instance VI_1 {
 
 ```
 
-### 4**. Backup Node에 Keepalived config 적용**
+### **4. Backup Node에 Keepalived config 적용**
 
 - keepalived.conf 파일에 아래 내용 제외 모두 삭제
 
