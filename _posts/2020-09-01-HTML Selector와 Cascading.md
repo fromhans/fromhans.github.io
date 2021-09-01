@@ -41,7 +41,6 @@ h2 {
 ```
 
 ## 클래스 선택자
-    test
 - '.'을 사용하여 지정
 - 가장 범용적으로 사용
 ```css
@@ -86,7 +85,6 @@ a[title] {
   /* a 요소 중에서 title 속성이 있는 모든 요소를 선택 */
   background-color: orange;
 }
-
 a[href="https://www.google.com/maps/place/일본+가가와현+다카마쓰시"] {
   /* href 속성값이 "https://www.google.com/maps/place/일본+가가와현+다카마쓰시"와 일치하는 a 요소 */
   background-color: orange;
@@ -137,7 +135,6 @@ section > ul {
     /* 자식 선택자 */
     border: 2px;
 }
-
 ```
 
 # Cascading
