@@ -37,8 +37,8 @@ toc_sticky: true
 
 - 2021.1: 18~20년의 Cloud 구축 경험을 토대로 **Cloud Software Developer로 직무 변경**
 
-- ~  **2020.12: 무선 네트워크 장비 구축/운영 업무 수행**
-    - ~ **2020: 클라우드(Openstack) 기반 5G 인프라 구축 및 운용**
+- ~  2020.12: 무선 네트워크 장비 구축/운영 업무 수행**
+    - ~ 2020: 클라우드(Openstack) 기반 5G 인프라 구축 및 운용**
 
         물리 서버에 **Openstack 기반 클라우드 환경을 구축**하여 VM 기반 5G 장비 운용
 
@@ -48,7 +48,10 @@ toc_sticky: true
         - 4G (LTE): Samsung MME / PGW / vSPGW
 - 2015.1: 동국대학교 졸업 및 KT 입사
     - 컴퓨터공학과 졸업
-    - 졸업논문 : Wireless Sensor Network and Big Data in Cooperative Fire Security system using HARMS ([https://ieeexplore.ieee.org/document/7081182](https://ieeexplore.ieee.org/document/7081182))
+    - 센서네트워크와 빅데이터를 활용한 화재 감지 시스템 논문 작성
+        https://ieeexplore.ieee.org/document/7081182
+        - Publisher : IEEE
+        - Published in 2015 6th International Conference on Automation, Robotics and Applications. Queenstown, New Zealand
 
 
 # Contact
